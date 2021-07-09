@@ -1,9 +1,5 @@
 # @tenfly001
 
-# 电信营业厅
-#打开 APP 手动签到一次: 访问下右下角 `我` > `签到` (头像下面)
-1 0 * * * https://raw.githubusercontent.com/tenfly001/qx/main/10000.js
-
 # AcFun
 #打开 APP, 访问下`我的`
 1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/acfun/acfun.js
