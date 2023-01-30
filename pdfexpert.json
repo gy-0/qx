@@ -1,0 +1,41 @@
+{
+  "userInfo" : [
+
+  ],
+  "newAccount" : true,
+  "responseCreationDate" : "13:10 30/01/2023",
+  "linkedProducts" : [
+    {
+      "inAppStates" : [
+        {
+          "entitlements" : [
+            "macos.pe.subscription.pdf-features"
+          ],
+          "state" : "active",
+          "expirationDate" : "13:10 06/02/2033",
+          "type" : "custom trial",
+          "productId" : "pdfexpert3-mac-trial"
+        }
+      ],
+      "statisticsInfo" : {
+        "events" : [
+
+        ]
+      },
+      "bundleId" : "com.readdle.PDFExpert-Mac",
+      "chargingPlatform" : "Stripe"
+    }
+  ],
+  "deviceInfo" : {
+    "deviceModel" : "MacBookAir10,1",
+    "amplitudeDeviceId" : "9AA90B78-5F1A-43B8-A18A-06556645E97ER"
+  },
+  "signInSessionToken" : "2565ef28-1583-4994-b5bf-df4a7412b404",
+  "accountInfo" : {
+    "email" : "tenfly001@gmail.com",
+    "properties" : {
+      "pe2DmgUser" : true,
+      "pe2FreeUser" : true
+    }
+  }
+}
