@@ -13,7 +13,7 @@
         "cardTemplateId" : "0000007327",
         "status" : "ACTIVE",
         "imageUrl" : "https://snaplii.s3-us-west-2.amazonaws.com/snaplii/card/1699304835016_nations.png",
-        "discount" : "2",
+        "discount" : "4999",
         "balanceRefreshable" : "true",
         "reloadable" : "true",
         "type" : "PREPAID_CARD",
