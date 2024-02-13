@@ -17,11 +17,11 @@
         "balanceRefreshable" : "true",
         "reloadable" : "true",
         "type" : "PREPAID_CARD",
-        "buyAmount" : "49",
+        "buyAmount" : "1",
         "faceValueRules" : {
           "type" : "FIXED",
-          "priceStart" : "50",
-          "priceEnd" : "50"
+          "priceStart" : "3",
+          "priceEnd" : "3"
         }
       },
       {
