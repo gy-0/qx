@@ -20,8 +20,8 @@
         "buyAmount" : "1",
         "faceValueRules" : {
           "type" : "FIXED",
-          "priceStart" : "3",
-          "priceEnd" : "3"
+          "priceStart" : "3000",
+          "priceEnd" : "3000"
         }
       },
       {
